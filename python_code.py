@@ -1,4 +1,4 @@
-**it will be used for capstone project**
+--it will be used for capstone project--
 import numpy as np
 import pandas as pd
 print("Hello Capstone Project Course!")
