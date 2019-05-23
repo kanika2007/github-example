@@ -1,0 +1,64 @@
+The Battle of Neighborhoods
+
+Kanika Nagpal 
+ 
+May 23, 2019
+
+1.	Introduction 
+ 
+1.1	Background 
+With the changing times, Indians no longer need a reason or a special occasion to eat out. Indians—across metro and non-metro cities—eat out simply because they want to experiment, love food, or that’s how they want to spend their free time. According to a recent survey, the socializers spend about ₹ 6,500 a month, eat out or order in about four times a month. This trend is even more common among college students in the age group of 18-25 years. Thus keeping in mind, the recent trends, it appears that the café/restaurant business is going to be extremely flourishing. With the changing times, from a business point of view, it becomes highly critical to make an investment in this field.
+
+1.2	Problem 
+The problem is to find an ideal location to open a café near to the student hub area in Delhi. The University of Delhi is divided into North campus and south campus, which makes these two places the hotspots for opening of cafes and restaurants. In order to open a café, the two prime student locations are Hudson Lane which is near the North Campus and Hauz Khas which is the hotspot location for students from south campus of Delhi University. The central focus of this report is to choose between these two locations based on the foursquare data.
+ 
+1.3	Interested Clients
+The target audience is a client seeking to open a café targeted for students in the age group of 18-25 specifically and 16-35 in general.
+ 
+2.	Data 
+ 
+2.1	Data sources 
+The latitude and longitude data for Delhi is required. In addition to this the data required to solve the above stated business problem would be the latitudes and the longitudes of the assumed hotspot places where the client seeks to open a café. The data for which can be obtained from the Wikipedia. This data would then further be used in foursquare to get a list of already existing cafes in the two areas.
+ 
+3.	Methodology
+
+The following methodology has been followed in order to solve the above stated problem
+ 
+3.1	Analyzing Delhi as the Target City
+Delhi has been chosen as the target city because of its growth as the popular location and an increasing number of cafes coming up. The primary research done has supported the selection of Delhi. Also, the percentage of students living in Delhi has been increasing. Since the café is primarily focused on the students in the age group of 18-25, Delhi comes up as an ideal location.
+
+3.2	Selection of two prime location
+Based on the age group of the students, the campuses of Delhi University has been selected as the ideal location. There are two campuses North Campus and south Campus which therefore become the two important locations which we are going to focus on and analyze. The two locations being selected are Hudson Lane near the north campus and Hauz Khas near to south campus
+
+
+3.3	 Analyzing the top cafes in Hudson Lane
+The top cafes within 2.5 KM of the radius of Hudson Lane have been found using the foursquare.
+These have been listed below.
+ 
+
+3.4	Analyzing the top cafes in Hauz Khas
+The top cafes within 2.5 KM of the radius of Hudson Lane have been found using the foursquare.
+These have been listed below.
+ 
+ 
+3.5	Visualizing the top cafes in Hudson Lane
+The top cafes within 2.5 KM of the radius of Hudson Lane after been found using the foursquare have been visualized on the map using folium.
+The Map obtained is as shown below.
+ 
+ 
+3.6	Visualizing the top cafes in Hauz Khas
+The top cafes within 2.5 KM of the radius of Hudson Lane after been found using the foursquare have been visualized on the map using folium.
+The Map obtained is as shown below.
+
+ 
+4.	Results
+ As seen on the Map, the area for the south campus, Hauz Khas is more crowded with the cafes. There already exists a number of cafes in the south campus, leaving less scope for the opening of new ones. Hence, comparing the above two shortlisted locations it is clear that north campus, Hudson Lane is more suitable for opening up of a café. 
+
+5.	Discussions
+If the café is opened near south campus i.e. Hauz Khas, it might face a lot of competition from the existing cafes. Moreover, it might need to come up with new and attractive strategies in order to lure the customers. 
+ 
+6.	Conclusions 
+Hence in accordance with the above research it is recommended a that the client opens a café near to the north campus, Hudson Lane to draw maximum footfall and have maximum gains
+ 
+ 
+  
